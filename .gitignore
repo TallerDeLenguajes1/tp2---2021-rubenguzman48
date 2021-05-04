@@ -1,2 +1,4 @@
 #Ignorar los siguientes archivos
 .exe
+.obj
+.tds
